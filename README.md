@@ -58,3 +58,5 @@ Using Google GenAI API we created series of images using their model
    python3 storyboard_generation.py
    ```
 
+4. **Or just run storyboard_generation.ipynb**
+
