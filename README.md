@@ -6,9 +6,7 @@ This project combines **LLM-based story expansion** with **image generation**, e
 
 ---
 
-## 🚀 Project Overview
-
-## 🧩 Pipeline Summary
+## 🧩 Pipeline
 
 | Stage | Description | Tools |
 |-------|--------------|-------|
@@ -59,4 +57,27 @@ Using Google GenAI API we created series of images using their model
    ```
 
 4. **Or just run storyboard_generation.ipynb**
+
+## 🖼️ Generation Results
+<p align="center">
+  <img src="results/frame_01.png" width="250"/>
+  <img src="results/frame_02.png" width="250"/>
+</p>
+
+<p align="center">
+  <img src="results/frame_03.png" width="250"/>
+  <img src="results/frame_04.png" width="250"/>
+</p>
+
+<p align="center">
+  <img src="results/frame_05.png" width="250"/>
+  <img src="results/frame_06.png" width="250"/>
+</p>
+
+<p align="center">
+  <img src="results/frame_07.png" width="250"/>
+  <img src="results/frame_08.png" width="250"/>
+</p>
+
+
 
