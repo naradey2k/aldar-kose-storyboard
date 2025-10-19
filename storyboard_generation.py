@@ -11,7 +11,7 @@ import os
 os.environ["GEMINI_API_KEY"] = ""
 client = genai.Client()
 
-ref_image = Image.open('/Users/danialsultanov/Coding Projects/higgsfield/ref_images/1.png')
+ref_image = Image.open('./ref_images/1.png')
 
 def generate_images_from_json(json_path="index.json"):
 
