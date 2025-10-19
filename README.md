@@ -52,8 +52,7 @@ Using Google GenAI API we created series of images using their model
 
 3. **Run the generation**
    ```bash
-   python3 scene_generation.py
-   python3 storyboard_generation.py
+   python3 story_generation.py --openai-api-key YOUR_OPENAI_API --google-api-key YOUR_GOOGLE_API --prompt YOUR_STORY_PROMPT
    ```
 
 4. **Or just run storyboard_generation.ipynb**
